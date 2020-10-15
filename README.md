@@ -1,5 +1,5 @@
 # Arithmetic-and-huffmann-coding
-Implementation of the Hufman and Arithmetic Coding compression techniques for efficient encoding of data
+Implementation of the Hufman and Arithmetic Coding compression techniques for efficient compression of data
 
 #### How to use
 
